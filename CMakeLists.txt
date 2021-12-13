@@ -8,4 +8,4 @@ if (UNIX)
 endif()
 
 add_subdirectory("src/HelloWorld")
-add_subdirectory("src/PlayWithCharacters")
+add_subdirectory("src/PlayingWithCharacters")

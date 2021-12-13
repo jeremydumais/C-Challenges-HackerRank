@@ -1,6 +1,6 @@
-project("PlayWithCharacters" LANGUAGES C)
+project("PlayingWithCharacters" LANGUAGES C)
 
-add_executable(PlayWithCharacters main.c)
+add_executable(PlayingWithCharacters main.c)
 
 if ("${CMAKE_C_COMPILER_ID}" STREQUAL "GNU") #gcc
   # https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
